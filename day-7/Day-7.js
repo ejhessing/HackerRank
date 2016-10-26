@@ -21,7 +21,6 @@ function readLine() {
 /////////////// ignore above this line ////////////////////
 
 function main() {
-    var n = parseInt(readLine());
     var arr = readLine().split(' ').reverse().join(" ");
-    console.log(arr)   
+    console.log(arr);
 }
