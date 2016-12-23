@@ -1,1 +1,1 @@
-Problem at : https://www.hackerrank.com/challenges/ctci-bubble-sort
+Problem at : https://www.hackerrank.com/challenges/halloween-party
